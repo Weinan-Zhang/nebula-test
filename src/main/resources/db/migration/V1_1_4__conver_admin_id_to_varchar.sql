@@ -1,0 +1,1 @@
+alter table log change admin_id admin_id varchar(20);
